@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry kind="lib" path="lib/classes12.jar"/>
+	<classpathentry kind="lib" path="lib/classes12dms.jar"/>
+	<classpathentry kind="lib" path="lib/nls_charset12.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc14_g.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc14dms_g.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc14dms.jar"/>
+	<classpathentry kind="lib" path="lib/sqljdbc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
